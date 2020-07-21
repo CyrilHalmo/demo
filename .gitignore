@@ -1,8 +1,8 @@
 # Compiled class file
 *.class
 
-# BlueJ files
-*.ctxt
+# Eclipse
+.settings
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
