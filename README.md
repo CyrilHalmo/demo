@@ -1,2 +1,2 @@
-# demo
-A Spring Boot Demo Application
+# Demo
+A Spring Boot Demo Application by Cyril Halmo.
